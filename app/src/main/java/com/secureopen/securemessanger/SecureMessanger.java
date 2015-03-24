@@ -10,7 +10,7 @@ public class SecureMessanger extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        // AustinAmoruso Branch
+        // AustinAmoruso Branch intial
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_secure_messanger);
     }

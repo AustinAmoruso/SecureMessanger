@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SecureMessanger.iml" filepath="$PROJECT_DIR$/SecureMessanger.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/securestorage/securestorage.iml" filepath="$PROJECT_DIR$/securestorage/securestorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/securestorage/securestorage.iml" filepath="$PROJECT_DIR$/securestorage/securestorage.iml" />
       <module fileurl="file://$PROJECT_DIR$/securetransfer/securetransfer.iml" filepath="$PROJECT_DIR$/securetransfer/securetransfer.iml" />
     </modules>
   </component>
